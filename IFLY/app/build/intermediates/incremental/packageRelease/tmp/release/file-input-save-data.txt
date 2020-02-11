@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat Jan 18 18:46:38 IST 2020
+0.base=C\:\\Users\\KIIT\\AndroidStudioProjects\\IFLY\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.path=classes2.dex
+1.baseType=DIRECTORY
+count=2
+1.path=classes.dex
+0.baseType=DIRECTORY
+1.set=DEX
+1.base=C\:\\Users\\KIIT\\AndroidStudioProjects\\IFLY\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\out
+0.set=DEX
